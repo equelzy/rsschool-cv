@@ -17,7 +17,7 @@ I am a versatile and curious learner with a background in film sound engineering
 
 ## Skills
 
-- Git, GitHub  
+- Git  
 - Markdown  
 - HTML, CSS  
 - JavaScript, Kotlin (basic level)  
